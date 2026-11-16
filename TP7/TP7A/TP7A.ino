@@ -1,5 +1,5 @@
 const int pinE1 = 22, pinE2 = 24;
-const int pinL1 = 8, pinL2 = 9;
+const int pinL1 = 26, pinL2 = 28;
 int estadoAnt1 = LOW, estadoAnt2 = LOW;
 
 void setup() {
