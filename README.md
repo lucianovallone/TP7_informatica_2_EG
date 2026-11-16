@@ -1,6 +1,6 @@
-## TP7_informatica_2_EG
-# TP7 de Informática 2. Entorno gráfico. 
-# Luciano Vallone.
+# TP7_informatica_2_EG
+## TP7 de Informática 2. Entorno gráfico. 
+## Luciano Vallone.
 
 En este trabajo práctico se realizó la simulación de un sistema con entradas y salidas simples, dos entradas y dos salidas, las cuales involucran 
 una conexión entre Processing y Arduino. La interfaz grafica está hecha en processing, en donde los rectángulos E1 y E2 son el estado de 2 entradas
